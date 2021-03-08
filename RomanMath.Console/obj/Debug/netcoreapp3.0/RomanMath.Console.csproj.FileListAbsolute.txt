@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\RomanMath\RomanMath.Console\bin\Debug\netcoreapp3.0\RomanMath.Console.exe
+C:\Users\admin\Desktop\RomanMath\RomanMath.Console\bin\Debug\netcoreapp3.0\RomanMath.Console.deps.json
+C:\Users\admin\Desktop\RomanMath\RomanMath.Console\bin\Debug\netcoreapp3.0\RomanMath.Console.runtimeconfig.json
+C:\Users\admin\Desktop\RomanMath\RomanMath.Console\bin\Debug\netcoreapp3.0\RomanMath.Console.runtimeconfig.dev.json
+C:\Users\admin\Desktop\RomanMath\RomanMath.Console\bin\Debug\netcoreapp3.0\RomanMath.Console.dll
+C:\Users\admin\Desktop\RomanMath\RomanMath.Console\bin\Debug\netcoreapp3.0\RomanMath.Console.pdb
+C:\Users\admin\Desktop\RomanMath\RomanMath.Console\bin\Debug\netcoreapp3.0\RomanMath.Impl.dll
+C:\Users\admin\Desktop\RomanMath\RomanMath.Console\bin\Debug\netcoreapp3.0\RomanMath.Impl.pdb
+C:\Users\admin\Desktop\RomanMath\RomanMath.Console\obj\Debug\netcoreapp3.0\RomanMath.Console.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\RomanMath\RomanMath.Console\obj\Debug\netcoreapp3.0\RomanMath.Console.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\RomanMath\RomanMath.Console\obj\Debug\netcoreapp3.0\RomanMath.Console.AssemblyInfo.cs
+C:\Users\admin\Desktop\RomanMath\RomanMath.Console\obj\Debug\netcoreapp3.0\RomanMath.Console.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\RomanMath\RomanMath.Console\obj\Debug\netcoreapp3.0\RomanMath.Console.csproj.CopyComplete
+C:\Users\admin\Desktop\RomanMath\RomanMath.Console\obj\Debug\netcoreapp3.0\RomanMath.Console.dll
+C:\Users\admin\Desktop\RomanMath\RomanMath.Console\obj\Debug\netcoreapp3.0\RomanMath.Console.pdb
+C:\Users\admin\Desktop\RomanMath\RomanMath.Console\obj\Debug\netcoreapp3.0\RomanMath.Console.genruntimeconfig.cache

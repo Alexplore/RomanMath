@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kcvoCNG9a3LB7VFoEebpdCeJJ8pD3cuPgHp57joOmICQGcJObIa11xb8qMaIcCs/VTY8z89NqGfOxW2xdH6iVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\Desktop\\RomanMath\\RomanMath.Impl\\RomanMath.Impl.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
